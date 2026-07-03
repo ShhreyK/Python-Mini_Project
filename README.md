@@ -43,14 +43,12 @@ The dataset (`zomato.csv`) includes the following information:
 * **Language:** Python 3
 * **Environment:** Google Colab / Jupyter Notebook
 
-### Required Libraries
+Required Libraries
 To run the notebook locally, you need the following Python scientific stack:
-```python
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-
+import pandas
+import numpy
+import matplotlib.pyplot
+import seaborn
 
 
 Data Preprocessing:
