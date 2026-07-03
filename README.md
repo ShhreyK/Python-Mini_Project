@@ -45,10 +45,13 @@ The dataset (`zomato.csv`) includes the following information:
 
 Required Libraries
 To run the notebook locally, you need the following Python scientific stack:
-import pandas
-import numpy
-import matplotlib.pyplot
-import seaborn
+pandas
+
+numpy
+
+matplotlib.pyplot
+
+seaborn
 
 
 Data Preprocessing:
